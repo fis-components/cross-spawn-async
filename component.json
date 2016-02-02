@@ -1,0 +1,13 @@
+{
+    "name": "cross-spawn-async",
+    "description": "Cross platform child_process#spawn",
+    "repos": "https://github.com/IndigoUnited/node-cross-spawn-async.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lru-cache": "^2.6.5",
+        "which": "^1.1.1"
+    },
+    "version": "2.0.0"
+}
