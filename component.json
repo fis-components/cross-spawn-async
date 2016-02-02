@@ -9,5 +9,5 @@
         "lru-cache": "^4.0.0",
         "which": "^1.2.0"
     },
-    "version": "2.1.5"
+    "version": "2.1.6"
 }
